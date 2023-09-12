@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10545011166",
+    "firebase_url": "https://campuspoints-e80de-default-rtdb.firebaseio.com",
+    "project_id": "campuspoints-e80de",
+    "storage_bucket": "campuspoints-e80de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10545011166:android:f7aa0fa2ae349c8625e54f",
+        "android_client_info": {
+          "package_name": "com.example.campus_pointsis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10545011166-d2njprfrf33t9djcg7t719nrp7bbvk0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBul5XJmybOiLDD_Zndw757WIrKvIU5f5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10545011166-d2njprfrf33t9djcg7t719nrp7bbvk0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
